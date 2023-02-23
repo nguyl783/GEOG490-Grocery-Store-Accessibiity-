@@ -3,26 +3,28 @@ Acessibility of Eugene Grocery Stores By Public Transportation
 By Anna Jatsura, Haley Loren, Lauren Nguyen, and Kent Williams
 
 
-Summary: We want to focus on accessibility issues locally in Eugene. Primarily, we want to gain a better understanding of how accessible grocery stores are through public transit, potentially including PeaceHealth bike hubs, EMX, and bus lines. This will be done by obtaining network data in the Eugene area and data from PeaceHealth and LTD (Lane Transit District).
+#### Summary:
+We want to focus on accessibility issues locally in Eugene. Primarily, we want to gain a better understanding of how accessible grocery stores are through public transit, potentially including PeaceHealth bike hubs, EMX, and bus lines. This will be done by obtaining network data in the Eugene area and data from PeaceHealth and LTD (Lane Transit District).
 
 
-Objective: Determine and highlight the areas of Eugene that are of low accessibility to grocery stores, utilizing transportation, network, and census data. 
+#### Objective:
+Determine and highlight the areas of Eugene that are of low accessibility to grocery stores, utilizing transportation, network, and census data. 
 
-Datasets used:   
+#### Datasets used:   
 https://www.arcgis.com/home/item.html?id=da445548bb844a3ca0ec646dd1a714e1   
 https://mapping.eugene-or.gov/search   
 https://www.eugene-or.gov/1238/Full-Service-Grocery   
 https://mapping.eugene-or.gov/   
 (more to come...)   
 
-Python Packages:    
+#### Python Packages:    
 https://github.com/gis-ops/routingpy     
 https://geopandas.org/   
 https://pandas.pydata.org/   
 https://numpy.org/   
 (etc...)   
 
-Approach:
+#### Approach:
 - using census data to look at commuting time by car and walking 
 - accessibility by public transit (EMX, LTD busses) and bikes (what is available by data) network data
 - rating grocery stores by price & quality
@@ -33,7 +35,7 @@ Expected Outcomes:
     - looking at accessibility by bus, foot, and car 
 - Table that includes statistics showing accessibility (details TBD)
 
-References:
+#### References:
 - LTD full EMX and bus routes
 https://www.ltd.org/system-map/
 <img width="1085" alt="Screen Shot 2023-02-23 at 11 02 40 AM" src="https://user-images.githubusercontent.com/122566241/221005248-99e323e1-8fc4-46b3-b805-a7f0ec29a83f.png"> 
