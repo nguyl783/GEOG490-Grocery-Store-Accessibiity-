@@ -24,9 +24,9 @@ Approach:
 - rating grocery stores by price & quiality 
 
 Expected Outcomes:
-- Map of accessibility of grocery stores
+- Heat map of accessibility of grocery stores
     - looking at accessibility by bus, foot, and car 
-- DataFrame containing statistics of time of travel using different methods of transportation 
+    - using network data instead of Euclidean distance to get more accurate representations
 
 References:
 - LTD full EMX and bus routes
