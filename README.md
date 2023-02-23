@@ -5,7 +5,7 @@ By Anna Jatsura, Haley Loren, Lauren Nguyen, and Kent Williams
 
 Summary: We want to focus on accessibility issues locally in Eugene. Primarily, we want to gain a better understanding of how accessible grocery stores are through public transit, including PeaceHealth bike hubs, EMX, and bus lines. This will be done by obtaining network data in the Eugene area and data from PeaceHealth and LTD (Lane Transit District).
 
-Objective:
+Objective: 
 
 
 Datasets used:
@@ -17,7 +17,7 @@ https://mapping.eugene-or.gov/
 Python Packages:
 https://github.com/gis-ops/routingpy
 
-Approach:
+Approach: 
 
 
 Expected Outcomes:
@@ -25,4 +25,7 @@ Expected Outcomes:
 - Statistics of ....
 
 References:
+- LTD full EMX and bus routes
+- Grocery stores in the United States
+- Eugene grocery stores
 
