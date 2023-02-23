@@ -39,7 +39,7 @@ Expected Outcomes:
 - LTD full EMX and bus routes
 https://www.ltd.org/system-map/
 <img width="1085" alt="Screen Shot 2023-02-23 at 11 02 40 AM" src="https://user-images.githubusercontent.com/122566241/221005248-99e323e1-8fc4-46b3-b805-a7f0ec29a83f.png"> 
-- Grocery stores in the United States, zoomed in to the Eugene area 
+- Grocery stores represented by yellow dots in the United States, zoomed in to the Eugene area 
 https://www.arcgis.com/home/item.html?id=da445548bb844a3ca0ec646dd1a714e1 
 <img width="695" alt="Screen Shot 2023-02-23 at 11 02 21 AM" src="https://user-images.githubusercontent.com/122566241/221005317-fe4aff71-bcbf-4dde-be0c-39c6ba470dc4.png">
 - Eugene grocery stores
