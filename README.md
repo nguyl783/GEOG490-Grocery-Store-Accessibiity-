@@ -9,10 +9,13 @@ Objective:
 
 
 Datasets used:
-
+https://www.arcgis.com/home/item.html?id=da445548bb844a3ca0ec646dd1a714e1
+https://mapping.eugene-or.gov/search
+https://www.eugene-or.gov/1238/Full-Service-Grocery
+https://mapping.eugene-or.gov/
 
 Python Packages:
-
+https://github.com/gis-ops/routingpy
 
 Approach:
 
