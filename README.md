@@ -19,14 +19,15 @@ Python Packages:
 https://github.com/gis-ops/routingpy 
  
 Approach:
-- census data looking at commuting by car; distances from block group, etc. 
-- assesbility by bus, car, bikes (what is available by data) network data
-- rating grocery stores by price & quiality 
+- using census data to look at commuting time by car and walking 
+- accessibility by public transit (EMX, LTD busses) and bikes (what is available by data) network data
+- rating grocery stores by price & quality
+- using network data to look at driving time from businesses to grocery stores
 
 Expected Outcomes:
 - Heat map of accessibility of grocery stores
     - looking at accessibility by bus, foot, and car 
-    - using network data instead of Euclidean distance to get more accurate representations
+- Table that includes statistics showing accessibility (details TBD)
 
 References:
 - LTD full EMX and bus routes
