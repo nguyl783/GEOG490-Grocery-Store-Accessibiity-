@@ -8,16 +8,19 @@ Summary: We want to focus on accessibility issues locally in Eugene. Primarily, 
 
 Objective: Determine and highlight the areas of Eugene that are of low accessibility to grocery stores, utilizing transportation, network, and census data. 
 
-Datasets used:
-- https://www.arcgis.com/home/item.html?id=da445548bb844a3ca0ec646dd1a714e1
-- https://mapping.eugene-or.gov/search
-- https://www.eugene-or.gov/1238/Full-Service-Grocery
-- https://mapping.eugene-or.gov/
-- (more to come...)
+Datasets used:   
+https://www.arcgis.com/home/item.html?id=da445548bb844a3ca0ec646dd1a714e1   
+https://mapping.eugene-or.gov/search   
+https://www.eugene-or.gov/1238/Full-Service-Grocery   
+https://mapping.eugene-or.gov/   
+(more to come...)   
 
-Python Packages:
-https://github.com/gis-ops/routingpy 
- 
+Python Packages:    
+https://github.com/gis-ops/routingpy     
+https://geopandas.org/   
+https://pandas.pydata.org/   
+https://numpy.org/   
+(etc...)   
 
 Approach:
 - using census data to look at commuting time by car and walking 
